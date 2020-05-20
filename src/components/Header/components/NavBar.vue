@@ -98,13 +98,13 @@ export default {
                             index: '11',
                             title: '主数据管理系统',
                             href:"http://192.168.2.223:8094/home",
-                            whref:"http://121.36.137.188:8086/home"
+                          
                         },
                         {   icon: 'el-icon-goods',
                             index: '12',
                             title: '主索引管理系统',
                             href:"http://192.168.2.223:9091",
-                            whref:"http://121.36.137.188:8087"
+                       
                         },
                         {
                             icon: 'el-icon-goods',
@@ -135,14 +135,14 @@ export default {
                             index: '31',
                             title: '用户管理',
                             href:"http://192.168.2.223:8092/home",
-                            whref:"http://121.36.137.188:8082/home"
+                     
                         },
                         {
                             icon: 'el-icon-rank',
                             index: '32',
                             title: '统一接口管理',
                             href:"http://192.168.2.179:8082/home",
-                            whref:"http://121.36.137.188:8083/home"
+                     
                             
                         },
                         {
@@ -164,7 +164,7 @@ export default {
                             index: '41',
                             title: 'ETL管理',
                             href:"http://192.168.2.223:8093/home/holographicView",
-                            whref:"http://121.36.137.188:8080/home/holographicView"
+               
                         },
                         {
                             icon: 'el-icon-rank',
@@ -181,14 +181,14 @@ export default {
                             index: '44',
                             title: '数据质量管理',
                             href:"http://192.168.2.223:8095/home",
-                            whref:"http://121.36.137.188:8088/home"
+                   
                         },
                         {
                             icon: 'el-icon-rank',
                             index: '45',
                             title: 'CDR4.0',
                             href:"http://192.168.2.204:8021/CDR4/Interface.jsp",
-                            whref:"http://139.9.122.192:8082/CDR4/"
+               
                         }
                     ]
                 },
